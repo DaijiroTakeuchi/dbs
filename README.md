@@ -1,5 +1,5 @@
 # 概要
-- これは Gatsby + Netlify CMS によって構成されたブログサイトです
+これは Gatsby + Netlify CMS によって構成されたブログサイトです
 
 ## URL
 完成次第カスタムドメインにする
